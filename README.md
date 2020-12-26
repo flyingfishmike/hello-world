@@ -23,17 +23,4 @@ public class BubbleSort{
         }
         System.out.println();
     }
-    public String getName(){//调用入口
-        int id =0;
-        setName("java+python");
-        return id + this.name;
-    }
-    public void setName(String name){//修改名字
-        this.name = name;
-        System.out.println(name);
-    }
-    public BubbleSort getBubbleSort(){
-
-        return this ;
-    }
 }
