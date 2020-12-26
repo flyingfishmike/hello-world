@@ -1,5 +1,3 @@
-# hello-world
-
 public class BubbleSort{
     private String name;
     public static void main(String[] args){
