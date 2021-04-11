@@ -8,6 +8,7 @@ public class FileOutputStreamTest01 {// 字节流
             // 写入
             //fos = new FileOutputStream("chapter1\\src\\name");
             //追加
+            // 柱哥牛皮
             fos = new FileOutputStream("chapter1\\src\\name",true);
             byte[] byt = {98,99,100,101};
             String s = "以JavaScript语言为例，\t它是一种单线程语言，\n";
