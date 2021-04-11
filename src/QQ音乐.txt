@@ -1,0 +1,1196 @@
+{
+    "code": 0,
+    "data": {
+        "keyword": "冬眠",
+        "priority": 0,
+        "qc": [],
+        "semantic": {
+            "curnum": 0,
+            "curpage": 1,
+            "list": [],
+            "totalnum": 0
+        },
+        "song": {
+            "curnum": 10,
+            "curpage": 1,
+            "list": [
+                {
+                    "action": {
+                        "alert": 2,
+                        "icons": 8535932,
+                        "msg": 14,
+                        "switch": 17413891
+                    },
+                    "album": {
+                        "id": 8957599,
+                        "mid": "001Pj9F21SiHNx",
+                        "name": "冬眠",
+                        "pmid": "001Pj9F21SiHNx_1",
+                        "subtitle": "",
+                        "title": "冬眠",
+                        "title_hilight": "<em>冬眠</em>"
+                    },
+                    "chinesesinger": 0,
+                    "desc": "",
+                    "desc_hilight": "",
+                    "docid": "12919756138350483566",
+                    "es": "",
+                    "file": {
+                        "b_30s": 0,
+                        "e_30s": 60000,
+                        "media_mid": "001U2GJO2hSzQW",
+                        "size_128": 4314362,
+                        "size_128mp3": 4314362,
+                        "size_320": 10785624,
+                        "size_320mp3": 10785624,
+                        "size_aac": 6535727,
+                        "size_ape": 0,
+                        "size_dts": 0,
+                        "size_flac": 26213182,
+                        "size_ogg": 5803072,
+                        "size_try": 960887,
+                        "strMediaMid": "001U2GJO2hSzQW",
+                        "try_begin": 92956,
+                        "try_end": 122853
+                    },
+                    "fnote": 4009,
+                    "genre": 1,
+                    "grp": [],
+                    "id": 243750328,
+                    "index_album": 1,
+                    "index_cd": 0,
+                    "interval": 269,
+                    "isonly": 0,
+                    "ksong": {
+                        "id": 6338845,
+                        "mid": "002b6IAP3bVGWo"
+                    },
+                    "language": 0,
+                    "lyric": "",
+                    "lyric_hilight": "",
+                    "mid": "001U2GJO2hSzQW",
+                    "mv": {
+                        "id": 0,
+                        "vid": ""
+                    },
+                    "name": "冬眠",
+                    "newStatus": 2,
+                    "nt": 1229917155,
+                    "ov": 0,
+                    "pay": {
+                        "pay_down": 1,
+                        "pay_month": 1,
+                        "pay_play": 0,
+                        "pay_status": 0,
+                        "price_album": 0,
+                        "price_track": 200,
+                        "time_free": 0
+                    },
+                    "pure": 0,
+                    "sa": 0,
+                    "singer": [
+                        {
+                            "id": 2169579,
+                            "mid": "0001CJGI3KUaN6",
+                            "name": "司南",
+                            "title": "司南",
+                            "title_hilight": "司南",
+                            "type": 1,
+                            "uin": 1394165810
+                        }
+                    ],
+                    "status": 0,
+                    "subtitle": "",
+                    "t": 1,
+                    "tag": 11,
+                    "tid": 0,
+                    "time_public": "2019-10-28",
+                    "title": "冬眠",
+                    "title_hilight": "<em>冬眠</em>",
+                    "type": 0,
+                    "url": "http://stream10.qqmusic.qq.com/243750328.wma",
+                    "ver": 0,
+                    "volume": {
+                        "gain": -6.190000057220459,
+                        "lra": 14.85099983215332,
+                        "peak": 0.9649999737739563
+                    }
+                },
+                {
+                    "action": {
+                        "alert": 11,
+                        "icons": 135752,
+                        "msg": 0,
+                        "switch": 605971
+                    },
+                    "album": {
+                        "id": 8448297,
+                        "mid": "003XtjIR3M8m9T",
+                        "name": "丸子呦の翻唱专辑",
+                        "pmid": "003XtjIR3M8m9T_1",
+                        "subtitle": "我用歌声陪你入眠",
+                        "title": "丸子呦の翻唱专辑",
+                        "title_hilight": "丸子呦の翻唱专辑"
+                    },
+                    "chinesesinger": 0,
+                    "desc": "",
+                    "desc_hilight": "",
+                    "docid": "2877202044077742127",
+                    "es": "",
+                    "file": {
+                        "b_30s": 0,
+                        "e_30s": 0,
+                        "media_mid": "002PH4IV3pjJi8",
+                        "size_128": 4341962,
+                        "size_128mp3": 4341962,
+                        "size_320": 10854602,
+                        "size_320mp3": 10854602,
+                        "size_aac": 6569386,
+                        "size_ape": 0,
+                        "size_dts": 0,
+                        "size_flac": 27703963,
+                        "size_ogg": 5892702,
+                        "size_try": 0,
+                        "strMediaMid": "002PH4IV3pjJi8",
+                        "try_begin": 0,
+                        "try_end": 0
+                    },
+                    "fnote": 0,
+                    "genre": 0,
+                    "grp": [],
+                    "id": 258222244,
+                    "index_album": 16,
+                    "index_cd": 0,
+                    "interval": 271,
+                    "isonly": 0,
+                    "ksong": {
+                        "id": 8822306,
+                        "mid": "004UjVFo3catGz"
+                    },
+                    "language": 0,
+                    "lyric": "我用歌声陪你入眠",
+                    "lyric_hilight": "我用歌声陪你入眠",
+                    "mid": "004OgiCD3xiIJv",
+                    "mv": {
+                        "id": 0,
+                        "vid": ""
+                    },
+                    "name": "冬眠",
+                    "newStatus": 2,
+                    "nt": 1544446590,
+                    "ov": 0,
+                    "pay": {
+                        "pay_down": 0,
+                        "pay_month": 0,
+                        "pay_play": 0,
+                        "pay_status": 0,
+                        "price_album": 0,
+                        "price_track": 0,
+                        "time_free": 0
+                    },
+                    "pure": 0,
+                    "sa": 0,
+                    "singer": [
+                        {
+                            "id": 2153049,
+                            "mid": "003e7VjA27pIqv",
+                            "name": "丸子呦",
+                            "title": "丸子呦",
+                            "title_hilight": "丸子呦",
+                            "type": 1,
+                            "uin": 945275277
+                        }
+                    ],
+                    "status": 31,
+                    "subtitle": "我用歌声陪你入眠",
+                    "t": 1,
+                    "tag": 10,
+                    "tid": 0,
+                    "time_public": "2019-10-13",
+                    "title": "冬眠 (原唱: 司南)",
+                    "title_hilight": "<em>冬眠</em> (原唱: 司南)",
+                    "type": 0,
+                    "url": "http://stream10.qqmusic.qq.com/258222244.wma",
+                    "ver": 0,
+                    "volume": {
+                        "gain": -7.460000038146973,
+                        "lra": 12.34300041198730,
+                        "peak": 0.9850000143051147
+                    }
+                },
+                {
+                    "action": {
+                        "alert": 11,
+                        "icons": 135752,
+                        "msg": 0,
+                        "switch": 605971
+                    },
+                    "album": {
+                        "id": 11122669,
+                        "mid": "003Bv0Or3o7ld9",
+                        "name": "冬眠",
+                        "pmid": "003Bv0Or3o7ld9_1",
+                        "subtitle": "",
+                        "title": "冬眠",
+                        "title_hilight": "<em>冬眠</em>"
+                    },
+                    "chinesesinger": 0,
+                    "desc": "",
+                    "desc_hilight": "",
+                    "docid": "4206119661211359211",
+                    "es": "",
+                    "file": {
+                        "b_30s": 0,
+                        "e_30s": 0,
+                        "media_mid": "004GsbUH454Zqu",
+                        "size_128": 4318962,
+                        "size_128mp3": 4318962,
+                        "size_320": 10797120,
+                        "size_320mp3": 10797120,
+                        "size_aac": 6525393,
+                        "size_ape": 0,
+                        "size_dts": 0,
+                        "size_flac": 29338009,
+                        "size_ogg": 6161307,
+                        "size_try": 0,
+                        "strMediaMid": "004GsbUH454Zqu",
+                        "try_begin": 0,
+                        "try_end": 0
+                    },
+                    "fnote": 0,
+                    "genre": 1,
+                    "grp": [],
+                    "id": 256742488,
+                    "index_album": 1,
+                    "index_cd": 0,
+                    "interval": 269,
+                    "isonly": 0,
+                    "ksong": {
+                        "id": 8624342,
+                        "mid": "003Hqiaj3H6ZGh"
+                    },
+                    "language": 0,
+                    "lyric": "",
+                    "lyric_hilight": "",
+                    "mid": "004GsbUH454Zqu",
+                    "mv": {
+                        "id": 0,
+                        "vid": ""
+                    },
+                    "name": "冬眠",
+                    "newStatus": 2,
+                    "nt": 3764751447,
+                    "ov": 0,
+                    "pay": {
+                        "pay_down": 0,
+                        "pay_month": 0,
+                        "pay_play": 0,
+                        "pay_status": 0,
+                        "price_album": 0,
+                        "price_track": 0,
+                        "time_free": 0
+                    },
+                    "pure": 0,
+                    "sa": 0,
+                    "singer": [
+                        {
+                            "id": 1259689,
+                            "mid": "002Sk4r80RBzj6",
+                            "name": "章伟杰",
+                            "title": "章伟杰",
+                            "title_hilight": "章伟杰",
+                            "type": 0,
+                            "uin": 0
+                        }
+                    ],
+                    "status": 31,
+                    "subtitle": "",
+                    "t": 1,
+                    "tag": 12,
+                    "tid": 0,
+                    "time_public": "2020-04-01",
+                    "title": "冬眠 (温柔男声版)",
+                    "title_hilight": "<em>冬眠</em> (温柔男声版)",
+                    "type": 0,
+                    "url": "http://stream10.qqmusic.qq.com/256742488.wma",
+                    "ver": 0,
+                    "volume": {
+                        "gain": -7.216000080108643,
+                        "lra": 12.60900020599365,
+                        "peak": 0.9689999818801880
+                    }
+                },
+                {
+                    "action": {
+                        "alert": 11,
+                        "icons": 135752,
+                        "msg": 0,
+                        "switch": 605971
+                    },
+                    "album": {
+                        "id": 10770281,
+                        "mid": "003IFq5d45W0TE",
+                        "name": "EA7英雄本色",
+                        "pmid": "003IFq5d45W0TE_8",
+                        "subtitle": "",
+                        "title": "EA7英雄本色",
+                        "title_hilight": "EA7英雄本色"
+                    },
+                    "chinesesinger": 0,
+                    "desc": "",
+                    "desc_hilight": "",
+                    "docid": "17408076097822951143",
+                    "es": "",
+                    "file": {
+                        "b_30s": 0,
+                        "e_30s": 0,
+                        "media_mid": "004BVW2d1NDPb7",
+                        "size_128": 5653951,
+                        "size_128mp3": 5653951,
+                        "size_320": 14134552,
+                        "size_320mp3": 14134552,
+                        "size_aac": 8558996,
+                        "size_ape": 0,
+                        "size_dts": 0,
+                        "size_flac": 0,
+                        "size_ogg": 8143353,
+                        "size_try": 0,
+                        "strMediaMid": "004BVW2d1NDPb7",
+                        "try_begin": 105856,
+                        "try_end": 135582
+                    },
+                    "fnote": 0,
+                    "genre": 0,
+                    "grp": [],
+                    "id": 255625933,
+                    "index_album": 38,
+                    "index_cd": 0,
+                    "interval": 353,
+                    "isonly": 0,
+                    "ksong": {
+                        "id": 9196344,
+                        "mid": "002sULIN20ZgJm"
+                    },
+                    "language": 0,
+                    "lyric": "",
+                    "lyric_hilight": "",
+                    "mid": "004BVW2d1NDPb7",
+                    "mv": {
+                        "id": 0,
+                        "vid": ""
+                    },
+                    "name": "冬眠 （抖音热播版）",
+                    "newStatus": 2,
+                    "nt": 2553316473,
+                    "ov": 0,
+                    "pay": {
+                        "pay_down": 0,
+                        "pay_month": 0,
+                        "pay_play": 0,
+                        "pay_status": 0,
+                        "price_album": 0,
+                        "price_track": 0,
+                        "time_free": 0
+                    },
+                    "pure": 0,
+                    "sa": 16,
+                    "singer": [
+                        {
+                            "id": 1343234,
+                            "mid": "003THLjr4UsLNl",
+                            "name": "涛少君",
+                            "title": "涛少君",
+                            "title_hilight": "涛少君",
+                            "type": 0,
+                            "uin": 2504533487
+                        }
+                    ],
+                    "status": 31,
+                    "subtitle": "",
+                    "t": 1,
+                    "tag": 10,
+                    "tid": 0,
+                    "time_public": "2020-03-01",
+                    "title": "冬眠 （抖音热播版） (改编版原唱: 司南)",
+                    "title_hilight": "<em>冬眠</em> （抖音热播版） (改编版原唱: 司南)",
+                    "type": 0,
+                    "url": "http://stream10.qqmusic.qq.com/255625933.wma",
+                    "ver": 0,
+                    "volume": {
+                        "gain": -7.488999843597412,
+                        "lra": 2.907999992370605,
+                        "peak": 0.8899999856948853
+                    }
+                },
+                {
+                    "action": {
+                        "alert": 11,
+                        "icons": 135752,
+                        "msg": 0,
+                        "switch": 81683
+                    },
+                    "album": {
+                        "id": 8623,
+                        "mid": "001ZaCQY2OxVMg",
+                        "name": "歌曲合辑",
+                        "pmid": "001ZaCQY2OxVMg_2",
+                        "subtitle": "",
+                        "title": "   ",
+                        "title_hilight": "   "
+                    },
+                    "chinesesinger": 0,
+                    "desc": "",
+                    "desc_hilight": "",
+                    "docid": "392030813225429785",
+                    "es": "",
+                    "file": {
+                        "b_30s": 0,
+                        "e_30s": 60000,
+                        "media_mid": "000S2YNT3m7H9P",
+                        "size_128": 4315198,
+                        "size_128mp3": 4315198,
+                        "size_320": 10787714,
+                        "size_320mp3": 10787714,
+                        "size_aac": 6542931,
+                        "size_ape": 0,
+                        "size_dts": 0,
+                        "size_flac": 0,
+                        "size_ogg": 6235758,
+                        "size_try": 960887,
+                        "strMediaMid": "000S2YNT3m7H9P",
+                        "try_begin": 92622,
+                        "try_end": 122759
+                    },
+                    "fnote": 8013,
+                    "genre": 0,
+                    "grp": [],
+                    "id": 253774835,
+                    "index_album": 1,
+                    "index_cd": 0,
+                    "interval": 269,
+                    "isonly": 0,
+                    "ksong": {
+                        "id": 8085199,
+                        "mid": "0013HxWi2qUwBC"
+                    },
+                    "language": 0,
+                    "lyric": "",
+                    "lyric_hilight": "",
+                    "mid": "000S2YNT3m7H9P",
+                    "mv": {
+                        "id": 0,
+                        "vid": ""
+                    },
+                    "name": "冬眠",
+                    "newStatus": 2,
+                    "nt": 2751462321,
+                    "ov": 0,
+                    "pay": {
+                        "pay_down": 0,
+                        "pay_month": 1,
+                        "pay_play": 0,
+                        "pay_status": 0,
+                        "price_album": 0,
+                        "price_track": 200,
+                        "time_free": 0
+                    },
+                    "pure": 0,
+                    "sa": 0,
+                    "singer": [
+                        {
+                            "id": 1327483,
+                            "mid": "000985uR2CKS2P",
+                            "name": "艾辰",
+                            "title": "艾辰",
+                            "title_hilight": "艾辰",
+                            "type": 0,
+                            "uin": 0
+                        }
+                    ],
+                    "status": 0,
+                    "subtitle": "",
+                    "t": 1,
+                    "tag": 12,
+                    "tid": 0,
+                    "time_public": "1990-01-01",
+                    "title": "冬眠",
+                    "title_hilight": "<em>冬眠</em>",
+                    "type": 0,
+                    "url": "http://stream10.qqmusic.qq.com/253774835.wma",
+                    "ver": 0,
+                    "volume": {
+                        "gain": -5.977000236511230,
+                        "lra": 13.88700008392334,
+                        "peak": 0.8740000128746033
+                    }
+                },
+                {
+                    "action": {
+                        "alert": 11,
+                        "icons": 135752,
+                        "msg": 0,
+                        "switch": 605971
+                    },
+                    "album": {
+                        "id": 9231351,
+                        "mid": "003AmS8g34E9c7",
+                        "name": "你的答案",
+                        "pmid": "003AmS8g34E9c7_1",
+                        "subtitle": "",
+                        "title": "你的答案",
+                        "title_hilight": "你的答案"
+                    },
+                    "chinesesinger": 0,
+                    "desc": "",
+                    "desc_hilight": "",
+                    "docid": "4446038517020703873",
+                    "es": "",
+                    "file": {
+                        "b_30s": 0,
+                        "e_30s": 0,
+                        "media_mid": "001tAB5I3hPRJX",
+                        "size_128": 4886148,
+                        "size_128mp3": 4886148,
+                        "size_320": 0,
+                        "size_320mp3": 0,
+                        "size_aac": 0,
+                        "size_ape": 0,
+                        "size_dts": 0,
+                        "size_flac": 0,
+                        "size_ogg": 0,
+                        "size_try": 0,
+                        "strMediaMid": "001tAB5I3hPRJX",
+                        "try_begin": 88853,
+                        "try_end": 119178
+                    },
+                    "fnote": 0,
+                    "genre": 0,
+                    "grp": [],
+                    "id": 269959174,
+                    "index_album": 5,
+                    "index_cd": 0,
+                    "interval": 305,
+                    "isonly": 0,
+                    "ksong": {
+                        "id": 11605110,
+                        "mid": "003AAwph0it34I"
+                    },
+                    "language": 0,
+                    "lyric": "",
+                    "lyric_hilight": "",
+                    "mid": "001tAB5I3hPRJX",
+                    "mv": {
+                        "id": 0,
+                        "vid": ""
+                    },
+                    "name": "冬眠（DJ版）",
+                    "newStatus": 2,
+                    "nt": 1047457134,
+                    "ov": 0,
+                    "pay": {
+                        "pay_down": 0,
+                        "pay_month": 0,
+                        "pay_play": 0,
+                        "pay_status": 0,
+                        "price_album": 0,
+                        "price_track": 0,
+                        "time_free": 0
+                    },
+                    "pure": 0,
+                    "sa": 16,
+                    "singer": [
+                        {
+                            "id": 2726672,
+                            "mid": "003twIWu0LR2uE",
+                            "name": "隔壁老李",
+                            "title": "隔壁老李",
+                            "title_hilight": "隔壁老李",
+                            "type": 0,
+                            "uin": 1350137010
+                        }
+                    ],
+                    "status": 31,
+                    "subtitle": "",
+                    "t": 1,
+                    "tag": 10,
+                    "tid": 0,
+                    "time_public": "2019-11-14",
+                    "title": "冬眠（DJ版） (改编版原唱: 司南)",
+                    "title_hilight": "<em>冬眠</em>（DJ版） (改编版原唱: 司南)",
+                    "type": 0,
+                    "url": "http://stream10.qqmusic.qq.com/269959174.wma",
+                    "ver": 0,
+                    "volume": {
+                        "gain": -3.897000074386597,
+                        "lra": 2.216000080108643,
+                        "peak": 0.8180000185966492
+                    }
+                },
+                {
+                    "action": {
+                        "alert": 11,
+                        "icons": 135752,
+                        "msg": 0,
+                        "switch": 81683
+                    },
+                    "album": {
+                        "id": 10328916,
+                        "mid": "004X53mO4C6fYK",
+                        "name": "冬眠",
+                        "pmid": "004X53mO4C6fYK_1",
+                        "subtitle": "",
+                        "title": "冬眠",
+                        "title_hilight": "<em>冬眠</em>"
+                    },
+                    "chinesesinger": 0,
+                    "desc": "",
+                    "desc_hilight": "",
+                    "docid": "14779530357930649823",
+                    "es": "",
+                    "file": {
+                        "b_30s": 0,
+                        "e_30s": 0,
+                        "media_mid": "002HEhsm2Fz28C",
+                        "size_128": 4313110,
+                        "size_128mp3": 4313110,
+                        "size_320": 10782136,
+                        "size_320mp3": 10782136,
+                        "size_aac": 6518683,
+                        "size_ape": 0,
+                        "size_dts": 0,
+                        "size_flac": 26758485,
+                        "size_ogg": 5989094,
+                        "size_try": 0,
+                        "strMediaMid": "002HEhsm2Fz28C",
+                        "try_begin": 0,
+                        "try_end": 0
+                    },
+                    "fnote": 8013,
+                    "genre": 0,
+                    "grp": [],
+                    "id": 127435958,
+                    "index_album": 1,
+                    "index_cd": 0,
+                    "interval": 269,
+                    "isonly": 0,
+                    "ksong": {
+                        "id": 8062598,
+                        "mid": "0002QYhS3UygmR"
+                    },
+                    "language": 0,
+                    "lyric": "",
+                    "lyric_hilight": "",
+                    "mid": "0033Q0B34HhfZX",
+                    "mv": {
+                        "id": 0,
+                        "vid": ""
+                    },
+                    "name": "冬眠",
+                    "newStatus": 2,
+                    "nt": 735389655,
+                    "ov": 0,
+                    "pay": {
+                        "pay_down": 0,
+                        "pay_month": 0,
+                        "pay_play": 0,
+                        "pay_status": 0,
+                        "price_album": 0,
+                        "price_track": 0,
+                        "time_free": 0
+                    },
+                    "pure": 0,
+                    "sa": 0,
+                    "singer": [
+                        {
+                            "id": 3953542,
+                            "mid": "0010ebzN0QVGs6",
+                            "name": "叶丞_",
+                            "title": "叶丞_",
+                            "title_hilight": "叶丞_",
+                            "type": 0,
+                            "uin": 0
+                        }
+                    ],
+                    "status": 0,
+                    "subtitle": "",
+                    "t": 1,
+                    "tag": 12,
+                    "tid": 0,
+                    "time_public": "2020-01-26",
+                    "title": "冬眠 ( 男声版|原唱:司南)",
+                    "title_hilight": "<em>冬眠</em> ( 男声版|原唱:司南)",
+                    "type": 0,
+                    "url": "http://stream10.qqmusic.qq.com/127435958.wma",
+                    "ver": 0,
+                    "volume": {
+                        "gain": -6.468999862670898,
+                        "lra": 13.37100028991699,
+                        "peak": 0.9679999947547913
+                    }
+                },
+                {
+                    "action": {
+                        "alert": 11,
+                        "icons": 135752,
+                        "msg": 0,
+                        "switch": 605971
+                    },
+                    "album": {
+                        "id": 7075997,
+                        "mid": "003jnwGc0e9q7y",
+                        "name": "一条小团团OvO翻唱合集",
+                        "pmid": "003jnwGc0e9q7y_1",
+                        "subtitle": "",
+                        "title": "一条小团团OvO翻唱合集",
+                        "title_hilight": "一条小团团OvO翻唱合集"
+                    },
+                    "chinesesinger": 0,
+                    "desc": "",
+                    "desc_hilight": "",
+                    "docid": "10371849503514743867",
+                    "es": "",
+                    "file": {
+                        "b_30s": 0,
+                        "e_30s": 0,
+                        "media_mid": "002mTbNR3B1MoB",
+                        "size_128": 4303527,
+                        "size_128mp3": 4303527,
+                        "size_320": 0,
+                        "size_320mp3": 0,
+                        "size_aac": 0,
+                        "size_ape": 0,
+                        "size_dts": 0,
+                        "size_flac": 0,
+                        "size_ogg": 0,
+                        "size_try": 0,
+                        "strMediaMid": "002mTbNR3B1MoB",
+                        "try_begin": 0,
+                        "try_end": 0
+                    },
+                    "fnote": 0,
+                    "genre": 0,
+                    "grp": [],
+                    "id": 255375897,
+                    "index_album": 89,
+                    "index_cd": 0,
+                    "interval": 268,
+                    "isonly": 0,
+                    "ksong": {
+                        "id": 8568255,
+                        "mid": "002uT57K4YFWoE"
+                    },
+                    "language": 0,
+                    "lyric": "",
+                    "lyric_hilight": "",
+                    "mid": "002mTbNR3B1MoB",
+                    "mv": {
+                        "id": 0,
+                        "vid": ""
+                    },
+                    "name": "冬眠",
+                    "newStatus": 2,
+                    "nt": 3032875804,
+                    "ov": 0,
+                    "pay": {
+                        "pay_down": 0,
+                        "pay_month": 0,
+                        "pay_play": 0,
+                        "pay_status": 0,
+                        "price_album": 0,
+                        "price_track": 0,
+                        "time_free": 0
+                    },
+                    "pure": 0,
+                    "sa": 0,
+                    "singer": [
+                        {
+                            "id": 3223851,
+                            "mid": "004WVjD22OGQuU",
+                            "name": "一条小团团ovo",
+                            "title": "一条小团团ovo",
+                            "title_hilight": "一条小团团ovo",
+                            "type": 1,
+                            "uin": 1277264698
+                        }
+                    ],
+                    "status": 31,
+                    "subtitle": "",
+                    "t": 1,
+                    "tag": 12,
+                    "tid": 0,
+                    "time_public": "2019-06-27",
+                    "title": "冬眠 (原唱: 司南)",
+                    "title_hilight": "<em>冬眠</em> (原唱: 司南)",
+                    "type": 0,
+                    "url": "http://stream10.qqmusic.qq.com/255375897.wma",
+                    "ver": 0,
+                    "volume": {
+                        "gain": 0.9070000052452087,
+                        "lra": 15.70199966430664,
+                        "peak": 0.8209999799728394
+                    }
+                },
+                {
+                    "action": {
+                        "alert": 11,
+                        "icons": 135752,
+                        "msg": 0,
+                        "switch": 605971
+                    },
+                    "album": {
+                        "id": 10112621,
+                        "mid": "004gApnD41ulVl",
+                        "name": "孙焱彬的翻唱",
+                        "pmid": "004gApnD41ulVl_5",
+                        "subtitle": "冬眠",
+                        "title": "孙焱彬的翻唱",
+                        "title_hilight": "孙焱彬的翻唱"
+                    },
+                    "chinesesinger": 0,
+                    "desc": "",
+                    "desc_hilight": "",
+                    "docid": "6483251583324026210",
+                    "es": "",
+                    "file": {
+                        "b_30s": 0,
+                        "e_30s": 0,
+                        "media_mid": "002EWIT21hexGV",
+                        "size_128": 458699,
+                        "size_128mp3": 458699,
+                        "size_320": 0,
+                        "size_320mp3": 0,
+                        "size_aac": 0,
+                        "size_ape": 0,
+                        "size_dts": 0,
+                        "size_flac": 0,
+                        "size_ogg": 0,
+                        "size_try": 0,
+                        "strMediaMid": "002EWIT21hexGV",
+                        "try_begin": 0,
+                        "try_end": 0
+                    },
+                    "fnote": 0,
+                    "genre": 0,
+                    "grp": [],
+                    "id": 291689838,
+                    "index_album": 64,
+                    "index_cd": 0,
+                    "interval": 28,
+                    "isonly": 0,
+                    "ksong": {
+                        "id": 15621148,
+                        "mid": "002t3V9o3ih4vg"
+                    },
+                    "language": 0,
+                    "lyric": "冬眠",
+                    "lyric_hilight": "<em>冬眠</em>",
+                    "mid": "002EWIT21hexGV",
+                    "mv": {
+                        "id": 0,
+                        "vid": ""
+                    },
+                    "name": "冬眠",
+                    "newStatus": 1,
+                    "nt": 180048973,
+                    "ov": 0,
+                    "pay": {
+                        "pay_down": 0,
+                        "pay_month": 0,
+                        "pay_play": 0,
+                        "pay_status": 0,
+                        "price_album": 0,
+                        "price_track": 0,
+                        "time_free": 0
+                    },
+                    "pure": 0,
+                    "sa": 0,
+                    "singer": [
+                        {
+                            "id": 1142978,
+                            "mid": "003Gk7D10VEWa4",
+                            "name": "孙焱彬",
+                            "title": "孙焱彬",
+                            "title_hilight": "孙焱彬",
+                            "type": 0,
+                            "uin": 5542033
+                        }
+                    ],
+                    "status": 31,
+                    "subtitle": "冬眠",
+                    "t": 1,
+                    "tag": 10,
+                    "tid": 0,
+                    "time_public": "2020-01-10",
+                    "title": "冬眠",
+                    "title_hilight": "<em>冬眠</em>",
+                    "type": 0,
+                    "url": "http://stream10.qqmusic.qq.com/291689838.wma",
+                    "ver": 0,
+                    "volume": {
+                        "gain": -5.330999851226807,
+                        "lra": 3.599999904632568,
+                        "peak": 0.8169999718666077
+                    }
+                },
+                {
+                    "action": {
+                        "alert": 11,
+                        "icons": 135752,
+                        "msg": 0,
+                        "switch": 605971
+                    },
+                    "album": {
+                        "id": 16669707,
+                        "mid": "003Su1D1236l9S",
+                        "name": "冬眠",
+                        "pmid": "003Su1D1236l9S_1",
+                        "subtitle": "",
+                        "title": "冬眠",
+                        "title_hilight": "<em>冬眠</em>"
+                    },
+                    "chinesesinger": 0,
+                    "desc": "",
+                    "desc_hilight": "",
+                    "docid": "14873291550847099616",
+                    "es": "",
+                    "file": {
+                        "b_30s": 0,
+                        "e_30s": 0,
+                        "media_mid": "003OuyC74TLXO5",
+                        "size_128": 4274262,
+                        "size_128mp3": 4274262,
+                        "size_320": 10685338,
+                        "size_320mp3": 10685338,
+                        "size_aac": 6428544,
+                        "size_ape": 0,
+                        "size_dts": 0,
+                        "size_flac": 0,
+                        "size_ogg": 5708337,
+                        "size_try": 0,
+                        "strMediaMid": "003OuyC74TLXO5",
+                        "try_begin": 0,
+                        "try_end": 0
+                    },
+                    "fnote": 0,
+                    "genre": 1,
+                    "grp": [],
+                    "id": 292357741,
+                    "index_album": 1,
+                    "index_cd": 0,
+                    "interval": 267,
+                    "isonly": 0,
+                    "ksong": {
+                        "id": 15695068,
+                        "mid": "000xpkD70o2g0m"
+                    },
+                    "language": 0,
+                    "lyric": "",
+                    "lyric_hilight": "",
+                    "mid": "003OuyC74TLXO5",
+                    "mv": {
+                        "id": 0,
+                        "vid": ""
+                    },
+                    "name": "冬眠 (cover: 司南)",
+                    "newStatus": 1,
+                    "nt": 2642079508,
+                    "ov": 0,
+                    "pay": {
+                        "pay_down": 0,
+                        "pay_month": 0,
+                        "pay_play": 0,
+                        "pay_status": 0,
+                        "price_album": 0,
+                        "price_track": 0,
+                        "time_free": 0
+                    },
+                    "pure": 0,
+                    "sa": 0,
+                    "singer": [
+                        {
+                            "id": 5394275,
+                            "mid": "001pQDDK3N0nP5",
+                            "name": "俊辰",
+                            "title": "俊辰",
+                            "title_hilight": "俊辰",
+                            "type": 0,
+                            "uin": 2604561528
+                        }
+                    ],
+                    "status": 31,
+                    "subtitle": "",
+                    "t": 1,
+                    "tag": 10,
+                    "tid": 0,
+                    "time_public": "2021-01-03",
+                    "title": "冬眠 (cover: 司南)",
+                    "title_hilight": "<em>冬眠</em> (cover: 司南)",
+                    "type": 0,
+                    "url": "http://stream10.qqmusic.qq.com/292357741.wma",
+                    "ver": 0,
+                    "volume": {
+                        "gain": 0.2619999945163727,
+                        "lra": 15.43299961090088,
+                        "peak": 0.8159999847412109
+                    }
+                }
+            ],
+            "totalnum": 150
+        },
+        "tab": 0,
+        "taglist": [],
+        "totaltime": 0,
+        "zhida": {
+            "type": 1,
+            "zhida_singer": {
+                "albumNum": 49,
+                "hotalbum": [
+                    {
+                        "albumID": 4625883,
+                        "albumMID": "001rv0Zq32UqI3",
+                        "albumName": "是风动",
+                        "albumname_hilight": "是风动"
+                    },
+                    {
+                        "albumID": 6313307,
+                        "albumMID": "000X7XCm3WQA1K",
+                        "albumName": "山河令",
+                        "albumname_hilight": "山河令"
+                    },
+                    {
+                        "albumID": 10754960,
+                        "albumMID": "002x8bQj1EZryR",
+                        "albumName": "春三月",
+                        "albumname_hilight": "春三月"
+                    },
+                    {
+                        "albumID": 4625940,
+                        "albumMID": "003TeRhS1KTJjm",
+                        "albumName": "雁归来",
+                        "albumname_hilight": "雁归来"
+                    },
+                    {
+                        "albumID": 6313313,
+                        "albumMID": "000yBW2N2aXhld",
+                        "albumName": "-杀破狼priest-赠顾昀-",
+                        "albumname_hilight": "-杀破狼priest-赠顾昀-"
+                    },
+                    {
+                        "albumID": 11161011,
+                        "albumMID": "002HI90Y4PAORE",
+                        "albumName": "夭娘",
+                        "albumname_hilight": "夭娘"
+                    },
+                    {
+                        "albumID": 4626073,
+                        "albumMID": "002TH8jI0urWP8",
+                        "albumName": "藏",
+                        "albumname_hilight": "藏"
+                    },
+                    {
+                        "albumID": 6735468,
+                        "albumMID": "003icwPC2UO0fp",
+                        "albumName": "双人行（祝我生日快落！！）",
+                        "albumname_hilight": "双人行（祝我生日快落！！）"
+                    },
+                    {
+                        "albumID": 11328608,
+                        "albumMID": "003d24Xp1dqErM",
+                        "albumName": "瞬息",
+                        "albumname_hilight": "瞬息"
+                    },
+                    {
+                        "albumID": 4627381,
+                        "albumMID": "002EC9eB3Cl0qa",
+                        "albumName": "烟雨行舟",
+                        "albumname_hilight": "烟雨行舟"
+                    }
+                ],
+                "hotsong": [
+                    {
+                        "f": "243750328|冬眠|2169579|司南|8957599|冬眠|0|269|-1|1|0|10785624|4314362|0|0|0|26213182|5803072|6535727|0|001U2GJO2hSzQW|0001CJGI3KUaN6|001Pj9F21SiHNx|0|4009",
+                        "songID": 243750328,
+                        "songMID": "001U2GJO2hSzQW",
+                        "songName": "冬眠",
+                        "songname_hilight": "冬眠"
+                    },
+                    {
+                        "f": "254969104|春三月|2169579|司南|10754960|春三月|0|224|-1|1|0|8995718|3598402|0|0|0|24844436|5311114|5442636|0|004Zx0cr3ZQrkK|0001CJGI3KUaN6|002x8bQj1EZryR|0|4009",
+                        "songID": 254969104,
+                        "songMID": "004Zx0cr3ZQrkK",
+                        "songName": "春三月",
+                        "songname_hilight": "春三月"
+                    },
+                    {
+                        "f": "217262500|烟雨行舟|2169579|司南|4627381|烟雨行舟|0|267|-1|1|0|10703069|4281351|0|0|0|23883405|5495989|6448764|0|003953y22qBMUT|0001CJGI3KUaN6|002EC9eB3Cl0qa|0|4009",
+                        "songID": 217262500,
+                        "songMID": "003953y22qBMUT",
+                        "songName": "烟雨行舟",
+                        "songname_hilight": "烟雨行舟"
+                    },
+                    {
+                        "f": "239346064|苏东坡|2169579|司南|8234560|苏东坡|0|234|-1|1|0|9393824|3757645|0|0|0|49383916|5293693|5687022|0|003ZabHD1Uz9Ul|0001CJGI3KUaN6|000LlyOz2BcrxF|0|4009",
+                        "songID": 239346064,
+                        "songMID": "003ZabHD1Uz9Ul",
+                        "songName": "苏东坡",
+                        "songname_hilight": "苏东坡"
+                    },
+                    {
+                        "f": "263100871|奔赴|2169579|司南|12122154|奔赴|0|218|-1|1|0|8760517|3504357|0|0|0|24527661|4945214|5310795|0|0047bRjE09jBHy|0001CJGI3KUaN6|003vR1FC3JGUr1|0|4009",
+                        "songID": 263100871,
+                        "songMID": "0047bRjE09jBHy",
+                        "songName": "奔赴",
+                        "songname_hilight": "奔赴"
+                    },
+                    {
+                        "f": "286460601|长大就好|2169579|司南|15778990|长大就好|0|248|-1|1|0|9952849|3981257|0|0|0|28051659|5691427|6022812|0|000j8qDp21TkOo|0001CJGI3KUaN6|003ZytP84bChpA|0|4009",
+                        "songID": 286460601,
+                        "songMID": "000j8qDp21TkOo",
+                        "songName": "长大就好",
+                        "songname_hilight": "长大就好"
+                    },
+                    {
+                        "f": "256964448|夭娘|2169579|司南|11161011|夭娘|0|216|-1|1|0|8642539|3457128|0|0|0|23960425|4780663|5198672|0|002JfcKn3ba2Vv|0001CJGI3KUaN6|002HI90Y4PAORE|0|4009",
+                        "songID": 256964448,
+                        "songMID": "002JfcKn3ba2Vv",
+                        "songName": "夭娘",
+                        "songname_hilight": "夭娘"
+                    },
+                    {
+                        "f": "239176089|烟雨行舟|2169579|司南|4627381|烟雨行舟|0|258|-1|1|0|10360899|4144679|0|0|0|28885951|5979906|6289389|0|000qcMuV1OZZkp|0001CJGI3KUaN6|002EC9eB3Cl0qa|0|4009",
+                        "songID": 239176089,
+                        "songMID": "000qcMuV1OZZkp",
+                        "songName": "烟雨行舟",
+                        "songname_hilight": "烟雨行舟"
+                    },
+                    {
+                        "f": "238005739|人间不值得|2169579|司南|7324460|一些司南的翻唱|0|286|-1|1|0|11465869|4586470|0|0|0|0|6534763|6927937|0|001Ctl2B4QnTfj|0001CJGI3KUaN6|003drtcq2VE0YV|31|0",
+                        "songID": 238005739,
+                        "songMID": "001Ctl2B4QnTfj",
+                        "songName": "人间不值得",
+                        "songname_hilight": "人间不值得"
+                    },
+                    {
+                        "f": "247911645|sonder|2169579|司南|9717637|sonder|0|226|-1|1|0|9061559|3624746|0|0|0|25693803|5339242|5423608|0|004BP2ro2aeQzs|0001CJGI3KUaN6|000rGHQ3467OTz|0|4009",
+                        "songID": 247911645,
+                        "songMID": "004BP2ro2aeQzs",
+                        "songName": "sonder",
+                        "songname_hilight": "sonder"
+                    }
+                ],
+                "mvNum": 0,
+                "singerID": 2169579,
+                "singerMID": "0001CJGI3KUaN6",
+                "singerName": "司南",
+                "singerPic": "http://y.gtimg.cn/music/photo_new/T001R150x150M0000001CJGI3KUaN6.jpg",
+                "singername_hilight": "司南",
+                "songNum": 97
+            }
+        }
+    },
+    "message": "",
+    "notice": "",
+    "subcode": 0,
+    "time": 1609855625,
+    "tips": ""
+}
