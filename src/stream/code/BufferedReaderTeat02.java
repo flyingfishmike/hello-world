@@ -1,3 +1,5 @@
+package stream.code;
+
 import java.io.*;
 
 public class BufferedReaderTeat02 {

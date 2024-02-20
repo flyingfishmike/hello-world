@@ -1,3 +1,5 @@
+package stream.code;
+
 import java.io.*;
 
 public class BufferedReaderTest01 {
@@ -9,7 +11,7 @@ public class BufferedReaderTest01 {
         BufferedReader br2 ;
         try {
             // 当一个流的构造方法中需要流的时候，这个被传进来的流叫做：节点流
-            reader = new FileReader("chapter1/src/Copy02.java");// 节点流
+            reader = new FileReader("chapter1/src/stream.code.Copy02.java");// 节点流
             br = new BufferedReader(reader);// 包装流
 
             // 通过转换流转换（InputStreamReader将字节流转换为字符流

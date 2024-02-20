@@ -1,3 +1,5 @@
+package stream.code;
+
 import java.io.FileWriter;
 import java.io.IOException;
 
