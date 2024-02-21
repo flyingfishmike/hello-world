@@ -486,7 +486,7 @@ JMM（Java Memory Model）是Java内存模型的缩写，是一种抽象的概�
 
 
 
-#### tryLcok()和Lock()
+#### tryLock()和lock()
 
 在Java中，`Lock` 接口提供了比传统 `synchronized` 关键字更灵活的锁定机制。`Lock` 接口的实现（如 `ReentrantLock`）主要提供了两种锁定机制：`lock` 和 `tryLock`。
 
