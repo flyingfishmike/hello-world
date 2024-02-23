@@ -527,3 +527,48 @@ public class MyBean implements ApplicationContextAware {
 - 两者都是 Spring 框架中与容器的交互相关的概念。
 - 它们都是用于获取 Spring 容器中的 bean，以便在应用程序中使用。
 
+
+
+
+#### Feign 远程调用的流程
+
+Feign 是一个声明式、模板化的 HTTP 客户端，它使得编写 HTTP 客户端变得更加简单。Feign 的远程调用流程如下：
+
+1. **定义接口**：首先需要定义一个 Java 接口，用于描述远程服务的调用。在接口中定义需要调用的 HTTP 请求方法、URL、请求参数、请求头等信息，以及方法的返回类型。
+
+```
+javaCopy code
+@FeignClient(name = "example", url = "http://example.com")
+public interface ExampleClient {
+
+    @GetMapping("/api/resource")
+    String getResource();
+}
+
+```
+
+1. **使用注解标记**：使用 Feign 提供的注解标记接口的方法，例如`@FeignClient`用于指定服务名或URL，`@GetMapping`、`@PostMapping`等用于指定 HTTP 请求方法，以及其他用于指定请求参数、请求头等信息的注解。
+2. **创建 Feign 客户端**：在应用程序中，可以通过 Spring 容器自动装配的方式创建 Feign 客户端。当应用程序启动时，Spring 会扫描并创建带有 `@FeignClient` 注解的接口的实现类，并将其注册为 Spring Bean。
+3. **调用远程服务**：在需要调用远程服务的地方，直接注入 Feign 客户端的实例，并调用接口中定义的方法即可。Feign 会自动将方法调用转换为 HTTP 请求，并发送到远程服务。收到远程服务的响应后，Feign 将响应转换为方法的返回值，并返回给调用方。
+
+```
+javaCopy code
+@RestController
+public class ExampleController {
+
+    private final ExampleClient exampleClient;
+
+    @Autowired
+    public ExampleController(ExampleClient exampleClient) {
+        this.exampleClient = exampleClient;
+    }
+
+    @GetMapping("/example/resource")
+    public String getResourceFromRemote() {
+        return exampleClient.getResource();
+    }
+}
+
+```
+
+在这个流程中，Feign 隐藏了底层的 HTTP 请求细节，使得远程服务的调用变得简单和直观。开发者只需要定义接口并使用注解标记，Feign 就会根据接口定义自动生成 HTTP 请求，并发送到远程服务。
